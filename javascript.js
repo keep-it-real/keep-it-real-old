@@ -29,11 +29,3 @@ $("#arrowUp").on("click", function()
 		scrollTop: $("body, html").offset().top
 	}, 1700)
 })
-
-$("#javalink").on("click", function() 
-{
-	$("body, html").animate(
-	{
-		scrollTop: $("#bla").offset().top
-	}, 1100)
-})
