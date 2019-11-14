@@ -155,7 +155,7 @@ h3 span:hover
 	cursor: pointer;
 }
 
-.arrow:hover, .arrowSecond:hover, .arrowThird:hover, .arrowFourth:hover
+.arrow:hover, .arrowSecond:hover, .arrowThird:hover
 {
 	text-shadow: 0 12px 0 #363e5a, 0 24px 0 #363e5a;
 }
