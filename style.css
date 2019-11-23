@@ -287,10 +287,10 @@ h3 span:hover
 	font-size: 1.2rem;
 }
 
-#cup, #glass
+.icons > .icon-coffee, .icon-wine
 {
-	display: inline-block;
 	font-size: 1.2rem;
+	display: inline-block;
 }
 
 h2 
@@ -364,7 +364,7 @@ footer
 		font-size: 1.4rem;
 	}
 		
-	.badge, .btn, .maintext, #cup, #glass, .right > p
+	.badge, .btn, .maintext, .icons > .icon-coffee, .icon-wine, .right > p
 	{
 		font-size: 1rem;
 	}
@@ -412,7 +412,7 @@ footer
 		font-size: 1.25rem;
 	}
 	
-	.maintext, .badge, .btn, #cup, #glass, .right > p
+	.maintext, .badge, .btn, .icons > .icon-coffee, .icon-wine, .right > p
 	{
 		font-size: 0.85rem;
 	}
@@ -536,7 +536,7 @@ footer
 		padding-right: 10px;
 	}
 	
-	.maintext, .badge, .btn, #cup, #glass, .right > p
+	.maintext, .badge, .btn, .icons > .icon-coffee, .icon-wine, .right > p
 	{
 		font-size: 0.85rem;
 	}
